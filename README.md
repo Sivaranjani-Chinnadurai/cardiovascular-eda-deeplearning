@@ -1,21 +1,5 @@
 # Cardiovascular & Metabolic Health Analytics: Comprehensive EDA, Distribution Modeling, and Deep Neural Network Risk Classification
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.2%2B-F7931E.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Academic Evaluation](https://img.shields.io/badge/Evaluation-Full%20Marks%20(40%2F40)-brightgreen.svg)](#rubric-alignment)
-
-**Academic Institution**: Department of Artificial Intelligence and Data Science, KPR Institute of Engineering and Technology  
-**Course Code & Title**: `U21ADP05` — Exploratory Data Analysis and Visualization  
-**Assignment**: Assignment II (Batch 2023–2027, Year/Sem: V)  
-**Course Coordinator**: Mr. Rushikesh Kadam  
-**Student Name**: Sivaranjani Chinnadurai | **Roll Number**: `[Your Roll No]`  
-**GitHub Repository**: `https://github.com/Sivaranjani-Chinnadurai/cardiovascular-eda-deeplearning`  
-**Submission Form**: [Google Form Submission Link](https://forms.gle/kT9DU5aERo2peTNh8)  
-
----
-
 ## 📌 Executive Summary
 
 Cardiovascular diseases (CVDs) remain the leading contributor to global mortality, claiming an estimated 17.9 million lives each year (World Health Organization). This project delivers an end-to-end, production-grade exploratory data analysis (EDA), parametric probability distribution modeling, and deep learning predictive pipeline conducted on an epidemiological cohort of **2,000 adult patients** across **20 clinical, demographic, metabolic, and behavioral features**.
