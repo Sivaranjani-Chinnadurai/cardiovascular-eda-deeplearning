@@ -10,7 +10,8 @@
 **Course Code & Title**: `U21ADP05` — Exploratory Data Analysis and Visualization  
 **Assignment**: Assignment II (Batch 2023–2027, Year/Sem: V)  
 **Course Coordinator**: Mr. Rushikesh Kadam  
-**Student Name**: `[Your Name]` | **Roll Number**: `[Your Roll No]`  
+**Student Name**: Sivaranjani Chinnadurai | **Roll Number**: `[Your Roll No]`  
+**GitHub Repository**: `https://github.com/Sivaranjani-Chinnadurai/cardiovascular-eda-deeplearning`  
 **Submission Form**: [Google Form Submission Link](https://forms.gle/kT9DU5aERo2peTNh8)  
 
 ---
