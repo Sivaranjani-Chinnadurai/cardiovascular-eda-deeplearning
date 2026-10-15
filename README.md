@@ -4,11 +4,7 @@
 
 Cardiovascular diseases (CVDs) remain the leading contributor to global mortality, claiming an estimated 17.9 million lives each year (World Health Organization). This project delivers an end-to-end, production-grade exploratory data analysis (EDA), parametric probability distribution modeling, and deep learning predictive pipeline conducted on an epidemiological cohort of **2,000 adult patients** across **20 clinical, demographic, metabolic, and behavioral features**.
 
-The project rigorously applies **Ben Fry's Seven Stages of Data Visualization** (Acquire, Parse, Filter, Mine, Represent, Refine, Interact) and satisfies all Course Outcome criteria:
-- **CO3: Data Visualization (8 Marks)**: Selection, presentation quality, and deep tripartite interpretation for every figure.
-- **CO4: Statistical & Distribution-Based Visualization (16 Marks)**: Univariate continuous distributions, theoretical probability distribution fitting (Normal and Log-Normal with Kolmogorov-Smirnov tests and Q-Q plots), discrete probability mass functions (PMF), bivariate non-parametric hypothesis testing (Mann-Whitney U), and multivariate correlation matrices.
-- **CO5: Application of Data Exploration & Visualization (16 Marks)**: High-impact clinical decision making, outlier winsorization, physiological biomarker engineering, and structured repository delivery.
-- **Enrichment Component**: PyTorch Deep Multi-Layer Perceptron (MLP) binary classifier with Batch Normalization, Dropout regularization, dynamic learning rate scheduling, hyperparameter tuning, and permutation feature importance.
+The project rigorously applies **Ben Fry's Seven Stages of Data Visualization**
 
 ---
 
@@ -236,29 +232,3 @@ jupyter notebook eda_and_deep_learning_pipeline.ipynb
 
 ---
 
-## 📤 Step-by-Step GitHub Submission Guide for Full Marks
-
-1. **Initialize Git & Push to your GitHub**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Complete EDA, Distribution Modeling & Deep MLP Project"
-   git branch -M main
-   git remote add origin https://github.com/<your-github-username>/cardiovascular-eda-deeplearning.git
-   git push -u origin main
-   ```
-2. **Submit to Evaluation Google Form**:
-   - Access the project submission link: [https://forms.gle/kT9DU5aERo2peTNh8](https://forms.gle/kT9DU5aERo2peTNh8)
-   - Enter your Student Name, Roll Number, Department, and Semester.
-   - Paste your public GitHub repository URL.
-   - Upload `reports/Project_Report_Cardiovascular_EDA_DL.pdf` if a file attachment field is present.
-
----
-
-## 📚 References (IEEE Format)
-
-1. [1] World Health Organization, "Cardiovascular diseases (CVDs) Fact Sheet," WHO Media Centre, Geneva, Switzerland, 2023. [Online]. Available: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
-2. [2] P. W. Wilson, R. B. D'Agostino, D. Levy, A. M. Belanger, H. Silbershatz, and W. B. Kannel, "Prediction of coronary heart disease using risk factor categories," *Circulation*, vol. 97, no. 18, pp. 1837–1847, 1998. DOI: 10.1161/01.CIR.97.18.1837.
-3. [3] B. Fry, *Visualizing Data: Exploring and Explaining Data with the Processing Environment*, 1st ed. Sebastopol, CA: O'Reilly Media, 2008.
-4. [4] E. J. Benjamin et al., "Heart disease and stroke statistics—2019 update: A report from the American Heart Association," *Circulation*, vol. 139, no. 10, pp. e56–e528, 2019. DOI: 10.1161/CIR.0000000000000659.
-5. [5] Y. LeCun, Y. Bengio, and G. Hinton, "Deep learning," *Nature*, vol. 521, no. 7553, pp. 436–444, 2015. DOI: 10.1038/nature14539.
