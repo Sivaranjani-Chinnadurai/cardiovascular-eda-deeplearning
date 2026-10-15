@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+powershell.cmd
+build_notebook.py
+generate_reports.py
